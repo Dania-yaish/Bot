@@ -1,4 +1,4 @@
 <?php 
 
-echo "Hi, there";
+print_r($_GET["hub_challenge"]);
 ?>
